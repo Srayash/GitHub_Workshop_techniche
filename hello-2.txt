@@ -1,0 +1,7 @@
+File-2
+/* git add - takes to staging area.
+git commit -m "message" - when you commit this message will show up as a message used for giving desc of the work done by you.
+git log --oneline.
+git push origin main - 'origin' is the name of the repo where file is being pushed{can be replaced with the url} 'main' is the thing/branch getting pushed.
+
+*/
